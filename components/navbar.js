@@ -7,7 +7,7 @@ const NavBar = () => {
                 <div className="container">
                     <div className='flex justify-start items-center'>
                         <div className="pt-2 pb-0.5 px-2">
-                            <Image src="/logo.png" alt="capital one logo" width="60" height="65" />
+                            <Image src="/logo.png" alt="Issue Tracking Logo" width="60" height="65" />
                         </div>
                     </div>                    
                 </div>
